@@ -23,6 +23,9 @@
 		display: inline-block;
 		line-height: 80px;
 	}
+	.body{
+		background-image: url(images/pu.jpg);
+	}
 </style>
 </head>
 
@@ -67,7 +70,7 @@
 			
 		</header>
 		<section>
-		<div class="sec_img">
+		<div class="body">
 			<br><br><br>
 			<div class="box">
 				<br><br><br><br>

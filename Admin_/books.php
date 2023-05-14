@@ -19,6 +19,7 @@
 		body {
   font-family: "Lato", sans-serif;
   transition: background-color .5s;
+  background-image: url(images/li.jpg);
 }
 
 .sidenav {

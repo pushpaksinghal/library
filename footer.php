@@ -10,7 +10,7 @@
 	<style type="text/css">
 	footer
 	{
-		height: 200px;
+		height: 100px;
 		width: 1361px;
 		background-color: black;
 	}

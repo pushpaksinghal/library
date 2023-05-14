@@ -21,12 +21,17 @@
     {
       margin-top: -20px;
     }
+    .body{
+      height: 650px;
+	margin-top: 0px;
+      background-image: url(images/li.jpg);
+    }
   </style>   
 </head>
 <body>
 
-<section>
-  <div class="log_img">
+<section >
+  <div class="body">
    <br>
     <div class="box1">
         <h1 style="text-align: center; font-size: 35px;font-family: Lucida Console;">Library Management System</h1>
@@ -45,7 +50,7 @@
       
       <p style="color: white; padding-left: 15px;">
         <br><br>
-        <a style="color:yellow; text-decoration: none;" href="update_password.php">Forgot password?</a>
+        <a style="color:yellow; text-decoration: none;" href="Student_/update_password.php">Forgot password?</a>
       </p>
     </form>
     </div>
