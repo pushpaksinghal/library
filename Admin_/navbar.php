@@ -24,7 +24,6 @@
           <ul class="nav navbar-nav">
             <li><a href="index.php">HOME</a></li>
             <li><a href="books.php">BOOKS</a></li>
-            <li><a href="feedback.php">FEEDBACK</a></li>
           </ul>
           <?php
             if(isset($_SESSION['login_user']))
@@ -44,7 +43,7 @@
                     <div style="color: white">
 
                       <?php
-                        echo "<img class='img-circle profile_img' height=30 width=30 src='images/".$_SESSION['pic']."'>";
+                        echo "<img class='img-circle profile_img' height=30 width=30 src='images/p.jpg'>";
 
                         echo " ".$_SESSION['login_user']; 
                       ?>
@@ -59,9 +58,8 @@
             {   ?>
               <ul class="nav navbar-nav navbar-right">
 
-                <li><a href="admin_login.php"><span class="glyphicon glyphicon-log-in"> LOGIN</span></a></li>
+                <li><a href="login.php"><span class="glyphicon glyphicon-log-in"> LOGIN</span></a></li>
                 
-                <li><a href="registration.php"><span class="glyphicon glyphicon-user"> SIGN UP</span></a></li>
               </ul>
                 <?php
             }

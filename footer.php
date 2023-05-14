@@ -20,13 +20,9 @@
 </head>
 <body>
 <footer style="background-color: black; ">
-	<br>
-	
-
-	<br>
 	<p style="color:white;text-align: center;">
 		<br>
-		Email:&nbsp glalibrary@gmail.com <br><br>
+		Email:&nbsp Online.library@gmail.com <br><br>
 		Mobile:&nbsp &nbsp +880171*******
 	</p>
 </footer>

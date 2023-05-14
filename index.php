@@ -32,7 +32,7 @@
 		<header>
 		<div class="logo">
 			<img src="images/9.png">
-			<h1 style="color: white;">ONLINE LIBRARY MANAGEMENT SYSTEM</h1>
+			<h1 style="margin-left:100px; color: white;">GLA LIBRARY</h1>
 		</div>
 
 		<?php
@@ -71,7 +71,7 @@
 			<br><br><br>
 			<div class="box">
 				<br><br><br><br>
-				<h1 style="text-align: center; font-size: 35px;">Welcom to library</h1><br><br>
+				<h1 style="text-align: center; font-size: 35px;">Welcome to GLA library</h1><br><br>
 				<h1 style="text-align: center;font-size: 25px;">Opens at: 08:00am </h1><br>
 				<h1 style="text-align: center;font-size: 25px;">Closes at: 08:00pm </h1><br>
 			</div>
